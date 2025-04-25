@@ -65,11 +65,49 @@
 // } else {
 // console.log(`total a pagar: R$ ${valor.toFixed(2)}`)
 // }
- //questão 7
+// //Questão 7
 
- let ano = 2024
- if (ano % 4 == 0) {
-    console.log("anobissexto");
- } else {
-    console.log("Ano comum");
- }
+// let ano = 2023;
+
+// if (ano % 400 == 0) {
+//     console.log(`${ano} é bisexto`);
+// } else if (ano % 4 == 0 && ano % 100 != 0) {
+//     console.log(`${ano} é bisexto`);
+// } else {
+//     console.log(`${ano} não é bisexto`);
+// }
+
+// // questão 8
+
+// let usuario = "admin";
+// let senha = "1234";
+
+
+// if (usuario === "admin" && senha === "1234") {
+//   console.log("Acesso permitido");
+// } else {
+//   console.log("Acesso negado");
+// }
+
+// //Questao 9
+
+//   let valorCompra = 400
+//   let valorFrete = 20
+ 
+
+// if (valorCompra >= 200 ) {
+//   console.log("Frete Grátis")
+// } else {
+//   console.log("Paga Frete");
+// }
+
+
+// // Questão 10
+
+// // let numero = 35
+
+// // if (numero >= 10 && numero <= 50) {
+// //   console.log("intervalo");
+// // } else {
+// //   console.log("Fora do intervalo");
+// }
